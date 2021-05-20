@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\coursework\cw_Library\bin\Debug\netcoreapp3.1\Hotel.deps.json
+C:\Users\Admin\source\repos\coursework\cw_Library\bin\Debug\netcoreapp3.1\Hotel.dll
+C:\Users\Admin\source\repos\coursework\cw_Library\bin\Debug\netcoreapp3.1\Hotel.pdb
+C:\Users\Admin\source\repos\coursework\cw_Library\obj\Debug\netcoreapp3.1\Hotel.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\coursework\cw_Library\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\coursework\cw_Library\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfo.cs
+C:\Users\Admin\source\repos\coursework\cw_Library\obj\Debug\netcoreapp3.1\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\coursework\cw_Library\obj\Debug\netcoreapp3.1\Hotel.dll
+C:\Users\Admin\source\repos\coursework\cw_Library\obj\Debug\netcoreapp3.1\Hotel.pdb

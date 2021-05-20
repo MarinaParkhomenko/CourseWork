@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "coursework/1.0.0": {
+        "dependencies": {
+          "Hotel": "1.0.0"
+        },
+        "runtime": {
+          "coursework.dll": {}
+        }
+      },
+      "Hotel/1.0.0": {
+        "runtime": {
+          "Hotel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "coursework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hotel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

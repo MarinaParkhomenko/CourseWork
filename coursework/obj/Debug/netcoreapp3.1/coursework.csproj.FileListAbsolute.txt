@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\coursework\coursework\bin\Debug\netcoreapp3.1\coursework.exe
+C:\Users\Admin\source\repos\coursework\coursework\bin\Debug\netcoreapp3.1\coursework.deps.json
+C:\Users\Admin\source\repos\coursework\coursework\bin\Debug\netcoreapp3.1\coursework.runtimeconfig.json
+C:\Users\Admin\source\repos\coursework\coursework\bin\Debug\netcoreapp3.1\coursework.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\coursework\coursework\bin\Debug\netcoreapp3.1\coursework.dll
+C:\Users\Admin\source\repos\coursework\coursework\bin\Debug\netcoreapp3.1\coursework.pdb
+C:\Users\Admin\source\repos\coursework\coursework\obj\Debug\netcoreapp3.1\coursework.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\coursework\coursework\obj\Debug\netcoreapp3.1\coursework.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\coursework\coursework\obj\Debug\netcoreapp3.1\coursework.AssemblyInfo.cs
+C:\Users\Admin\source\repos\coursework\coursework\obj\Debug\netcoreapp3.1\coursework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\coursework\coursework\obj\Debug\netcoreapp3.1\coursework.dll
+C:\Users\Admin\source\repos\coursework\coursework\obj\Debug\netcoreapp3.1\coursework.pdb
+C:\Users\Admin\source\repos\coursework\coursework\obj\Debug\netcoreapp3.1\coursework.genruntimeconfig.cache
+C:\Users\Admin\source\repos\coursework\coursework\bin\Debug\netcoreapp3.1\Hotel.dll
+C:\Users\Admin\source\repos\coursework\coursework\bin\Debug\netcoreapp3.1\Hotel.pdb
+C:\Users\Admin\source\repos\coursework\coursework\obj\Debug\netcoreapp3.1\coursework.csproj.CopyComplete
